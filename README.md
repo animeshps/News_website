@@ -1,3 +1,14 @@
+
+🙌
+WEBSITE LOOKS LIKE...
+
+![Screenshot (294)](https://github.com/user-attachments/assets/31826b08-aff6-46c8-968a-31a632504835)
+![Screenshot (295)](https://github.com/user-attachments/assets/f1a8e400-e77f-493a-a987-a02eed77ec60)
+![Screenshot (296)](https://github.com/user-attachments/assets/0e3cf917-7009-46ed-bd70-2b3513778f89)
+![Screenshot (297)](https://github.com/user-attachments/assets/27c977d7-a5ca-454e-ba19-3f6d8099d3f9)
+![Screenshot (298)](https://github.com/user-attachments/assets/2a4efe41-dca4-4104-850b-0a358c9881c3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
